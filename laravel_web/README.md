@@ -1,4 +1,4 @@
-<h1>Touchpoint Test - Laravel Web</h1>
+<h1>Touchcast Test - Laravel Web</h1>
 <p>
     I built this project using Laravel so I could have a bit of exposure instead of Core PHP. The Homepage will have links to 'Subscribe' to mailing list and 'View Subscribers' to view the list of subscribers.
 
